@@ -2,18 +2,18 @@
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
 
 ## 🔭 Currently Working On
-- 🏋️ Building a **Gym Management Website** with modern features for member tracking and class scheduling
 - 🌱 Learning **Bootstrap** to enhance my frontend development skills
+-🌱 Learning React.js to build dynamic and interactive web applications
 
 ## 🎓 Education & Academic Journey
 
 - 🎓 **Higher Diploma in Computing and Software Engineering**  
-  ✅ Coursework completed (Results pending)  
-  📚 Specialized in: Software Development, Database Systems, Web Technologies  
+  ✅ Completed with results received 
+  📚 Specialized in Software Development, Database Systems, and Web Technologies
 
-- 🚀 **Future Plans**  
-  🔜 Pursuing Top-up Degree in Software Engineering  
-  🌟 Focus Areas: Advanced Programming, System Architecture, Cloud Computing  
+- 🚀 **Currently Pursuing**  
+  🔜 BSc (Hons) in Software Engineering (Top-up Degree)
+  🌟 Focus Areas: Advanced Programming, System Architecture, and Cloud Computing
 
 - 📅 **Currently**  
   💻 Enhancing my skills through practical projects  
