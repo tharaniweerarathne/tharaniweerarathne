@@ -23,7 +23,7 @@
 | Qualification | Status | Focus Areas |
 |--------------|--------|-------------|
 | **Higher Diploma in Computing and Software Engineering** | ✅ Completed | Software Development, Database Systems, Web Technologies |
-| **BSc (Hons) in Software Engineering** | 🔜 In Progress | Advanced Programming, System Architecture, Cloud Computing |
+| **BSc (Hons) in Software Engineering** | 🔜 In Progress | Advanced Programming, System Architecture|
 
 ---
 
