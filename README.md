@@ -73,14 +73,34 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ---
 
-📊 GitHub Analytics
+<br>
+
+### 📊 GitHub Analytics
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharaniweerarathne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharaniweerarathne&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<br>
 
 ### 📬 Let's Connect!
+<div align="center">
+
+💡 **Always eager to learn, build, and contribute to meaningful projects**
+
+---
+</div>
+
+### Open to:
+
+- 🚀 Frontend development opportunities  
+- 🌍 Open source collaborations  
+- 💬 Tech discussions & knowledge sharing  
+- 🤝 Mentorship and learning experiences  
+
+
+
+  
 <p align="center">
   <a href="mailto:sasindikoralagamage@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -93,3 +113,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharaniweerarathne&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+Thanks for visiting! ⭐ Star some repositories if you find them interesting!
+<br>
