@@ -73,6 +73,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ---
 
+📊 GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharaniweerarathne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharaniweerarathne&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+
 ### 📬 Let's Connect!
 <p align="center">
   <a href="mailto:sasindikoralagamage@gmail.com">
