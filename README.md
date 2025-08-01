@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Frontend Developer | Software Engineering Student | Tech Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Passionate+about+tech+and+learning;Always+exploring+new+concepts;Open-source+enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/tharani-weerarathne" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
