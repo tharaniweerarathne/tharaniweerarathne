@@ -14,7 +14,7 @@
 
 ### 🔥 Current Focus
 - 🌱 Mastering **Bootstrap** & **React.js** for powerful frontend development
-- � Building real-world applications (Gym Management, Booking Systems)
+- � Building a real-life Volunteer Event Management System.
 - 📚 Transitioning from Higher Diploma to BSc (Hons) in Software Engineering
 
 ---
