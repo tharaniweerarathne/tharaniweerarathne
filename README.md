@@ -62,8 +62,8 @@
 
 ### 🏆 Recent Projects
 
-#### 🏋️ Gym Management System
-> A comprehensive solution for fitness centers with member management, class scheduling, and payment tracking
+#### 🏋️ AI-POWERED LOCAL VOLUNTEER MANAGEMENT PLATFORM
+> An AI-powered volunteer management system for event coordination, participation prediction, and smart recommendations.
 
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
