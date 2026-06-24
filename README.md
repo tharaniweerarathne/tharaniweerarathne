@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+ 
 </p>
 
 #### ⚙️ Backend Development
@@ -84,7 +84,6 @@
 
 #### 🛠️ Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -148,12 +147,11 @@
 </p>
 
 #### 📚 **Current Learning Path**
-- 🎯 Advanced React Patterns & Hooks
+- 🎯 Advanced React Patterns 
 - 🎯 Node.js Microservices Architecture
 - 🎯 MongoDB Aggregation Pipeline
 - 🎯 RESTful API Design with Express
 - 🎯 JWT Authentication & Authorization
-- 🎯 Docker Containerization
 - 🎯 CI/CD Pipeline Setup
 
 ---
@@ -208,7 +206,6 @@
 - 📧 Email: sasindikoralagamage@gmail.com
 - 💼 LinkedIn: [Tharani Weerarathne](https://linkedin.com/in/tharani-weerarathne)
 - 🏥 CarePlus Project: [Coming Soon - MERN Stack]
-- 🤖 Unity Volunteers Trust: [Coming Soon - PHP/MySQL]
 
 ---
 
@@ -216,9 +213,6 @@
 
 - 🎓 **First Class Honours** - BSc (Hons) in Software Engineering
 - 📜 **Higher Diploma** in Computing and Software Engineering
-- 🏆 **Best Project Award** - Unity Volunteers Trust (Nominee)
-- 💻 **Full-Stack Development** Training (MERN Stack)
-- 🤖 **AI/ML Fundamentals** Certification
 
 ---
 
