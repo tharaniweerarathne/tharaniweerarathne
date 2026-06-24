@@ -216,13 +216,3 @@
 
 ---
 
-### 📈 Current Learning Progress
-
-```mermaid
-graph LR
-    A[React.js] --> B[Node.js]
-    B --> C[Express.js]
-    C --> D[MongoDB]
-    D --> E[MERN Stack]
-    E --> F[AI Integration]
-    F --> G[CarePlus Project]
